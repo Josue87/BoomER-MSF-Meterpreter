@@ -8,3 +8,10 @@ metasploit-framework/lib/rex/post/meterpreter/ui/console/command_dispatcher
 An example of how it works:
 
 ![Alt text](https://1.bp.blogspot.com/-1HIjbEHpLm0/WrEvD-7jfNI/AAAAAAAArNQ/L5gYzKjdv7YCeGjvAgMuWLSHvIhjW5HZQCEwYBhgL/s1600/IMAGEN16.png?raw=true "BoomER en el meterpreter")
+
+# Example video
+
+
+### *BoomER Screen Exploit in Meterpreter (Local Privilege Escalation)*
+
+[![BoomER Screen Exploit in Meterpreter (Local Privilege Escalation](https://img.youtube.com/vi/rM_-0rgG3Kw/0.jpg)](https://www.youtube.com/watch?v=rM_-0rgG3Kw)
